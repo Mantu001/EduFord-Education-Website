@@ -1,18 +1,28 @@
 
 # EduFord-Education-Website
+Website Link: https://mantu001.github.io/EduFord-Education-Website/
 
-## Introduction
+# Introduction
 This is an education website designed as part of the IBM internship project. The website provides various educational resources and tools to facilitate learning.
 
-## Features
+# Features
 - **Responsive Design**: Adapts to different screen sizes.
 - **Interactive Elements**: Includes quizzes, videos, and animations.
 - **User Authentication**: Secure login and registration system.
 - **Search Functionality**: Allows users to search for educational content.
 
-## Installation
-To get a local copy up and running follow these simple steps:
+# Acknowledgement
+- For the IBM internship opportunity
+- GitHub Pages for hosting the project
+- Tools Used: HTML, CSS, JavaScript
 
-Website Link: https://mantu001.github.io/EduFord-Education-Website/
+# Contact
+- **Email**: mantu99739@gmail.com
+- **LinkedIn**: [Linkedin](http://www.linkedin.com/in/mantu-kumar-tiwari-553160262)
+- **Portfolio**: [Portfolio](https://bento.me/mantu)
+- **Schedule Your Appointment**: [Topmate](http://topmate.io/mantu_kumar_tiwari/?utm_source=topmate&utm_medium=popup&utm_campaign=Page_Ready)
+
+
+
    
 
